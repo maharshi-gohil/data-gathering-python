@@ -1,1 +1,5 @@
 world.sql
+.env
+__pycache__/
+.ipynb_checkpoints/
+TMDB_top_rated_movies.csv
